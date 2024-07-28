@@ -1,0 +1,27 @@
+Enlace para acceder al Dataset que se aplicó data augmentation y clahe y que se encuentra divido en dos partes:
+
+Originales: Esa compuesto por dos carpetas una para train y otra para test: 
+      - train:
+              - benign: 4000 radiografias
+              - malignant: 4000 radiografias
+      - test:
+              - benign: 4000 radiografias
+              - malignant: 4000 radiografias
+
+CLAHE: Esa compuesta por dos carpetas donde las radiografias tienen aplicada la técnica CLAHE una para train y otra para test: 
+      - train_CLAHE:
+              - benign: 4000 radiografias
+              - malignant: 4000 radiografias
+      - test-CLAHE:
+              - benign: 4000 radiografias
+              - malignant: 4000 radiografias
+- CLAHE
+
+https://drive.google.com/drive/folders/1YSpQe75CxK-nRRqAa8rC8WcWWlZkQ777?usp=drive_link
+
+*************************************************************************************************
+
+Enlace para acceder a el dataset orginal, al cual no se le aplicado ni data augmentation ni CLAHE
+
+https://drive.google.com/drive/folders/1HPIyzt0WsEit1_bjvG_2sDfkBCC3FK_A?usp=drive_link
+
